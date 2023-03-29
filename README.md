@@ -26,4 +26,4 @@ One of the most important aspects of devising a model for any machine learning b
 2. Quarter End Flag : Stock prices tend to fluctuate more towards the end of a quarter.
 3. Volume : Clear indicator of the activity of the stock price on a particular day.
 4. Adjusted Close: EDA cleared demonstrated a strong correlation between the closing price and the adjusted close price.
-
+5. Exponential Moving Average (EMA) of Adjusted Close: Moving averages are often good financial indicators for predicting future stock prices.
