@@ -6,7 +6,7 @@ Learning Techniques trained on 10 years daily price data. Daily Open, High, Low,
 
 ## Exploratory Data Analysis
 
-The EDA consisted of plotting the daily stock prices for observing any trends in the training data. 
+The EDA consisted of plotting the daily stock prices for observing any trends in the training data. <br>
 <br>
 <img width="1058" alt="Screenshot 2023-03-29 163347" src="https://user-images.githubusercontent.com/95123465/228514544-ce2996f6-cd2e-4251-b5af-d47ae553789b.png">
 <br>
