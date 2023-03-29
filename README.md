@@ -11,7 +11,7 @@ The EDA consisted of plotting the daily stock prices for observing any trends in
 <img width="1058" alt="Screenshot 2023-03-29 163347" src="https://user-images.githubusercontent.com/95123465/228514544-ce2996f6-cd2e-4251-b5af-d47ae553789b.png">
 <br>
 <img width="1053" alt="Screenshot 2023-03-29 163739" src="https://user-images.githubusercontent.com/95123465/228515210-92ebd10a-6b5f-4bcd-83d2-3e9a93135a7e.png">
-### Key Observations
+## Key Observations
 <ol>
 <li> The variation in the values of the opening, closing, high and low values of stock prices was low </li>
 <li>A significant resemblance between the adjusted close and the close prices was observed> The mean difference was almost zero for companies 2,3 and 4 and standard deviation of difference was less than 1.</li>
